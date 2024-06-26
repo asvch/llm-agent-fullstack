@@ -1,0 +1,11 @@
+langserve
+pydantic
+fastapi
+langchain_openai
+langchain
+langchain_community
+langchain_experimental
+bs4
+langchain_elasticsearch
+langchain_core
+dotenv
