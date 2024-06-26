@@ -30,7 +30,8 @@ class Output(BaseModel):
 
 add_routes(app, agent_with_chat_history, input_type=Input, output_type=Output)
 
-if __name__ == "__main__":
-    import uvicorn
+# if __name__ == "__main__":
+#     import uvicorn
 
-    uvicorn.run(app, host="localhost", port=8000)
+#     # uvicorn.run(app, host="localhost", port=8000)
+#     uvicorn.run(app, host="0.0.0.0", port=8000)
