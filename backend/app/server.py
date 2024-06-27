@@ -3,7 +3,7 @@ from langserve import add_routes
 from pydantic import BaseModel
 from fastapi.middleware.cors import CORSMiddleware
 
-from agent import agent_with_chat_history
+from app.agent import agent_with_chat_history
 
 app = FastAPI(title="LLM Agent Romeo")
 
