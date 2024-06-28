@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/llm-agent-fullstack/static/css/main.01d5d7dc.css",
-    "main.js": "/llm-agent-fullstack/static/js/main.93ebe2cf.js",
+    "main.js": "/llm-agent-fullstack/static/js/main.282657a8.js",
     "static/js/453.64512fd7.chunk.js": "/llm-agent-fullstack/static/js/453.64512fd7.chunk.js",
     "index.html": "/llm-agent-fullstack/index.html",
     "main.01d5d7dc.css.map": "/llm-agent-fullstack/static/css/main.01d5d7dc.css.map",
-    "main.93ebe2cf.js.map": "/llm-agent-fullstack/static/js/main.93ebe2cf.js.map",
+    "main.282657a8.js.map": "/llm-agent-fullstack/static/js/main.282657a8.js.map",
     "453.64512fd7.chunk.js.map": "/llm-agent-fullstack/static/js/453.64512fd7.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.01d5d7dc.css",
-    "static/js/main.93ebe2cf.js"
+    "static/js/main.282657a8.js"
   ]
 }
