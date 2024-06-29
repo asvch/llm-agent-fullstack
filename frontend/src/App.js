@@ -20,7 +20,8 @@ const App = () => {
 
 
     try {
-      const response = await axios.post('http://localhost:8000/invoke', {
+      // const response = await axios.post('http://localhost:8000/invoke', {
+      const response = await axios.post('https://llm-agent-fullstack-production.up.railway.app/invoke', {
         "input": {
           "input": input
         },

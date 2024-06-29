@@ -10,10 +10,9 @@ app = FastAPI(title="LLM Agent Romeo")
 origins = [
     "http://localhost:8000",
     "llm-agent-fullstack-production.up.railway.app",
-    "https://romeo-llm-agent-48f753764a13.herokuapp.com/",
     "https://llm-agent-fullstack-production.up.railway.app/",
     "http://localhost:8000/invoke",
-    "http://localhost:3000",  # React frontend
+    "http://localhost:3000",  
     "https://asvch.github.io",
 ]
 

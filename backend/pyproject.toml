@@ -23,6 +23,7 @@ bs4 = "^0.0.2"
 python-dotenv = ">=0.10.4"
 lxml = "^4.6.3"
 numexpr = ">=2.10.1"
+youtube-search = ">=2.1.2"
 
 
 [tool.poetry.group.dev.dependencies]
