@@ -3,6 +3,7 @@
   - React.js, and HTML used for frontend
   - Elasticsearch database as external vectorstore
   - Chatbot acts as Romeo from Romeo and Juliet.
+  - Deployed backend using Railway.app and frontend using GitHub Pages.
   
 **LLM Agent Tools:**
 - Retrieval tool: for LLM Agent to access all of Romeo's lines from the original script. Agent uses this tool to answer questions about Romeo.
@@ -20,5 +21,3 @@ Preview:
 | Web Search tool: <br> ![image](https://github.com/asvch/llm-agent-fullstack/assets/66492476/95533633-6604-482f-b3ef-cafbfd300ca9) <br> ![image](https://github.com/asvch/llm-agent-fullstack/assets/66492476/1a53e9f2-38db-47fb-985e-3a352b93b29e) | ![image](https://github.com/asvch/llm-agent-fullstack/assets/66492476/da7114a2-4821-48f3-b7ae-fef596ffe831) |
 | Math tool: <br> ![image](https://github.com/asvch/llm-agent-fullstack/assets/66492476/ea21311d-c35b-4d3a-b5d1-392caffd24ad) | ![image](https://github.com/asvch/llm-agent-fullstack/assets/66492476/7cbd005e-d543-439c-863f-afdc23348daa) |
 | YouTube tool: ![image](https://github.com/asvch/llm-agent-fullstack/assets/66492476/a5734635-221e-4484-8d95-e6a30642ad56) | ![image](https://github.com/asvch/llm-agent-fullstack/assets/66492476/f1eeedca-752c-4cf2-943d-2907aedd46ad) |
-
-
