@@ -1,8 +1,8 @@
-## LLM Agent chatbot with access to multiple tools!
+## LLM Agent with access to multiple tools!
   - LangChain, LangServe, FastAPI, and OpenAI API used for backend.
   - React.js, HTML, and CSS used for frontend.
   - Elasticsearch database as external vectorstore.
-  - Chatbot acts as Romeo from Romeo and Juliet.
+  - Agent acts as **Romeo** from Romeo and Juliet (just for fun!)
   - Deployed backend using Railway.app and frontend using GitHub Pages.
   
 **LLM Agent Tools:**
