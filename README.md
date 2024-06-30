@@ -2,7 +2,7 @@
   - LangChain, LangServe, FastAPI, and OpenAI API used for backend.
   - React.js, HTML, and CSS used for frontend.
   - Elasticsearch database as external vectorstore.
-  - Agent acts as **Romeo** from Romeo and Juliet (just for fun!)
+  - Agent acts as **Romeo** from Romeo and Juliet.
   - Deployed backend using Railway.app and frontend using GitHub Pages.
   
 **LLM Agent Tools:**
